@@ -1,0 +1,5 @@
+user publisher_user
+topic write iot/temperature
+
+user subscriber_user
+topic read iot/temperature
